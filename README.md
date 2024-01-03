@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!---Для компактной версии-->
-<div ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrpavel&layout=compact&hide=CMake,HTML,CSS&card_width=400"/><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrpavel&layout=compact&hide=CMake,HTML,CSS&card_width=400"/>
 </div>
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<div align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</div>
