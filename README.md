@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 <!---Для компактной версии-->
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrpavel&layout=compact&hide=CMake,HTML,CSS&card_width=400">
 </div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=gabrpavel)](https://github.com/gabrpavel/github-profile-trophy)
