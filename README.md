@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!---Для компактной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrpavel&layout=compact&hide=CMake,HTML,CSS)](https://github.com/gabrpavel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrpavel&layout=compact&hide=CMake,HTML,CSS&card_width=400)](https://github.com/gabrpavel/github-readme-stats)
