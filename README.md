@@ -21,5 +21,4 @@ Here are some ideas to get you started:
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrpavel&layout=compact&hide=CMake,HTML,CSS&card_width=400"/>
 </div>
 
-<div align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</div>
+
