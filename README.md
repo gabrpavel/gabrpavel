@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/R6gvnAxj2ISzJdbA63/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/3o7aTskHEUdgCQAXde/giphy.gif" width="400"/>
   <h2>Hi there, I'm Pavel <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/><br>
   Computer science student in <a href="https://www.bsuir.by/" target="_blank">BSUIR</a></h2>
 </div>
