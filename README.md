@@ -1,24 +1,22 @@
-<h2 align="center">Hi there, I'm Pavel <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
-<h3 align="center">Computer science student in <a href="https://www.bsuir.by/" target="_blank">BSUIR</a></h3>
-<!--
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Bree+Serif&duration=4500&pause=600&color=FF2525&center=true&vCenter=true&width=460&height=18&lines=Computer+science+student+in"/></div>
--->
-<!--
-**gabrpavel/gabrpavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!---Для компактной версии-->
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrpavel&layout=compact&hide=CMake,HTML,CSS&card_width=400"/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/R6gvnAxj2ISzJdbA63/giphy.gif" width="200"/>
+  <h2>Hi there, I'm Pavel <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/><br>
+  Computer science student in <a href="https://www.bsuir.by/" target="_blank">BSUIR</a></h2>
 </div>
 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrpavel&layout=compact&hide=CMake,HTML,CSS&card_width=400"/></div>
 
+### 🛠️: Technologies :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original.svg" title="Hibernate" alt="Hibernate" width="40" height="40"/>&nbsp;
+</div>
