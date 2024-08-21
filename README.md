@@ -4,7 +4,7 @@
   Computer science student in <a href="https://www.bsuir.by/" target="_blank">BSUIR</a></h2>
 </div>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrpavel&layout=compact&hide=CMake,HTML,CSS&card_width=400"/></div>
+<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrpavel&layout=compact&hide=CMake,HTML,CSS&card_width=400"/></div> -->
 
 ### 🛠️: Technologies :
 
