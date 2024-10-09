@@ -6,6 +6,7 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrpavel&layout=compact&hide=CMake,HTML,CSS&card_width=400"/></div>
 
+<!--
 ### 🛠️: Technologies :
 
 <div>
@@ -20,3 +21,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
 </div>
+-->
